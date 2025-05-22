@@ -1,6 +1,6 @@
 # Quantify Energy Risk Case Competition 2025
 
-This repository contains the deliverables for our team submission to the **Quantify 2025 Energy Risk & Insurance Case Competition**. We explored CAT event loss modeling, parametric trigger analysis, and strategic feasibility for Quant Co.'s expansion into renewable energy.
+This repository contains the deliverables for our team's submission to the Quantify 2025 Energy Risk & Insurance Case Competition, hosted by the University of Waterloo. We explored CAT event loss modelling, parametric trigger analysis, and strategic feasibility for Quant Co.'s expansion into renewable energy.
 
 ---
 
