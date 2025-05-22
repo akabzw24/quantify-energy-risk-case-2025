@@ -22,8 +22,8 @@ Quant Co. seeks to expand into renewable energy (solar & wind) but faces increas
 
 | Model              | AUC  | Precision | Recall |
 |-------------------|------|-----------|--------|
-| Logistic Regression | 0.56 | 0.40      | 0.33   |
-| Random Forest       | 0.56 | 0.38      | 0.40   |
+| Logistic Regression | 0.56 | 0.40      | 0.40   |
+| Random Forest       | 0.56 | 0.38      | 0.33   |
 | **XGBoost**         | **0.60** | **0.45** | **0.33** |
 
 - SMOTE oversampling is used to handle class imbalance.
